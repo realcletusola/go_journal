@@ -1,6 +1,6 @@
 package database  
 
-// import packages  
+ 
 import (
 	"database/sql"
 	"log"
